@@ -1,9 +1,0 @@
-Project Description
--What is the purpose
----List possible problems that may rise when scheduling doctor's appoitment
--What is the Goal
-
-
-Design Documentation
--Present Life Cycle Grapgh (See the book)
--Revise the Graph using UML
